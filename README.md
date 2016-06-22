@@ -1,4 +1,4 @@
-# hyperspace-js-version
+# はてなブログテーマ Hyperspace Javascript 版
 
 はてなブログ テーマストアに投稿した [Hyperspace](http://blog.hatena.ne.jp/-/store/theme/6653812171400045889) の Javascript 版（以下、JS 版）です。
 
