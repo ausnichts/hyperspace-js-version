@@ -720,12 +720,6 @@ a.entry-see-more:hover {
 .entry-footer {
   margin-top: 10px;
 }
-.page-index .entry-footer {
-  display: none;
-}
-.entry-footer-section {
-  display: none;
-}
 .social-buttons,
 .entry-footer-html {
   margin: 10px 0;
@@ -877,9 +871,6 @@ textarea {
   display: block;
   font-weight: bold;
   margin-bottom: 5px;
-}
-.hatena-module-profile .id a {
-  color: rgba(255, 255, 255, 0.3);
 }
 .hatena-module-profile .id a:hover {
   color: #b74e91;
