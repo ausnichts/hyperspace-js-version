@@ -2,7 +2,6 @@
  *
  *  Copyright (c) 2016 IMUZA.com http://www.imuza.com
  *  Released under the MIT license
- *  https://github.com/YukinobuKurata/YouTubeMagicBuyButton/blob/master/MIT-LICENSE.txt
  *  
  *  Includes SmoothScroll JavaScript Library V2
  *  MIT-style license. 
