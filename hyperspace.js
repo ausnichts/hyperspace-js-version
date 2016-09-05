@@ -2,6 +2,7 @@
  *
  *  Copyright (c) 2016 IMUZA.com http://www.imuza.com
  *  Released under the MIT license
+ *  http://opensource.org/licenses/mit-license.php
  *  
  *  Includes SmoothScroll JavaScript Library V2
  *  MIT-style license. 
